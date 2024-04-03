@@ -19,12 +19,7 @@ With one line of code, you can improve your interfaces, for example:
 Install using your package manager of choice.
 
 ```bash
-# yarn
-yarn add @formkit/auto-animate
-# npm
-npm install @formkit/auto-animate
-# pnpm
-pnpm add @formkit/auto-animate
+npx nuxi@latest module add auto-animate
 ```
 
 Boom! Done. That was fast! 🐇

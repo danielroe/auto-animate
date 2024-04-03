@@ -1,16 +1,16 @@
 export default {
   yarn: {
-    example: "yarn add @formkit/auto-animate",
+    example: "npx nuxi@latest module add auto-animate
     language: "shell",
     title: "~/my-app",
   },
   npm: {
-    example: "npm install @formkit/auto-animate",
+    example: "npx nuxi@latest module add auto-animate
     language: "shell",
     title: "~/my-app",
   },
   pnpm: {
-    example: "pnpm add @formkit/auto-animate",
+    example: "npx nuxi@latest module add auto-animate
     language: "shell",
     title: "~/my-app",
   },
